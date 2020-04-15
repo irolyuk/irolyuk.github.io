@@ -11,6 +11,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: Montserrat;
+  
 }
 .wrapper {
   background: #ffffff;
@@ -18,17 +19,23 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  border: 6px solid #ffffff;
+  border-radius: 25px;
 }
 
 .sidebar {
   background: #1f263d;
   width: 370px;
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 40px;  
+  border: 6px solid #1f263d;
+  border-radius: 25px;
 }
 
 .myphoto {
   width: 370px;
+  padding-left: center;
+  padding-right: 10pt;  
 }
 
 .about-me-container {
